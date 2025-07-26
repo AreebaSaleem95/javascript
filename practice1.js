@@ -45,4 +45,5 @@ for(let val of marks){
     sum+=val;
 }
 let avg=sum/marks.length;
-console.log('avg arks of the class=${avg}');
+console.log(`avg marks of the class=${avg}`);
+//let practice 
